@@ -20,7 +20,12 @@ open cammand prompt and type javac then press "enter".
 
 
 # Youtube Link
-https://youtu.be/JZ5n5VNZByw
+Part 1
+https://youtu.be/bGnxxomKcMk
+Part 2
+https://youtu.be/BKOQluEyMp4
+Part 3
+https://youtu.be/cV2-Ufw7xso
 
 # Github Link
 https://github.com/syedhurera/DS-Project-
